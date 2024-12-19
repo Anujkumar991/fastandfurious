@@ -1,0 +1,63 @@
+body {
+    background-color: #121212;
+    font-family: Arial, sans-serif;
+    color: #fff;
+    margin: 0;
+    padding: 0;
+}
+
+.hero {
+    padding: 60px 20px;
+    background-color: #1a1a1a;
+}
+
+.hero h1 {
+    font-size: 3rem;
+    margin-bottom: 10px;
+}
+
+.hero p {
+    font-size: 1.2rem;
+}
+
+#gallery img {
+    border: 2px solid #fff;
+}
+
+#events .card {
+    background-color: #242424;
+    border: none;
+    color: #fff;
+}
+
+#events .card-title {
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+
+#forum .forum-container {
+    background-color: #1a1a1a;
+}
+
+textarea {
+    background-color: #242424;
+    border: none;
+    color: #fff;
+}
+
+textarea::placeholder {
+    color: #bbb;
+}
+
+button {
+    background-color: #007bff;
+    border: none;
+}
+
+button:hover {
+    background-color: #0056b3;
+}
+
+footer {
+    font-size: 0.9rem;
+}
